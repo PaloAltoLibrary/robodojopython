@@ -1,0 +1,9 @@
+import requests
+
+ip = '192.168.1.213'
+
+sound_play = 'http://'+ip+'/api/audio/play'
+requests.post(sound_play,json={"AssetId": 's_Ecstacy.wav', 'Volume': 100})
+
+image_display = 'http://'+ip+'/api/images/display'
+requests.post(image_display,  json={'FileName': ‘e_JoyGoofy3.jpg', 'TimeOutSeconds': 5})
