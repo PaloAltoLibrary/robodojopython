@@ -1,6 +1,6 @@
 # Robo Dojo: Intro to Python
 
-In the workshop, absolute beginners will learn some basic concepts of how to write Python application for the Palo Alto Library's robots Dewey and Elsie.
+In the workshop, absolute beginners will learn some basic concepts of how to write Python application for the Palo Alto Library's robots [Dewey and Elsie](<https://library.cityofpaloalto.org/program-robotics>).
 
 <img src='./img/deweyEsie_sm.png' width=400>
 
