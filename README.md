@@ -2,7 +2,7 @@
 
 In the workshop, absolute beginners will learn some basic concepts of how to write Python application for the Palo Alto Library's robots Dewey and Elsie.
 
-<img src='./img/deweyEsie_sm.PNG' width=400>
+<img src='./img/deweyEsie_sm.png' width=400>
 
 The tutorial is made possible by a [Python Software Foundation](<https://www.python.org/psf-landing/>) grant. Related slides are available [here](https://docs.google.com/presentation/d/1rChLpRqLzicN0_daZIKergGYlbedKjcOZc2hhkFs2Z0/edit?usp=sharing). The tutorial and slides are developed by [Dan Lou](<https://github.com/fishbb>).
 
